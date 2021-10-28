@@ -1,0 +1,1 @@
+print('uk','maa','bt')
