@@ -1,0 +1,1 @@
+phy = int(input()
